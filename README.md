@@ -1,1 +1,1 @@
-## Short & Simple                                                         ─ ❐ ✕
+## Short & Simple                                                             ─ ❐ ✕
