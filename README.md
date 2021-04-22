@@ -1,2 +1,13 @@
-                                                                 L I N K S
-[Steam](https://steamcommunity.com/profiles/76561198344765754) • [YouTube](https://www.youtube.com/channel/UCCUhzZi2zQs0cIAcegEDX3g) • [Twitch](https://www.twitch.tv/tf2_imicro)
+<p align="center">
+<!--<img src="scoop.png" alt="Long live Scoop!"/>-->
+    <h1 align="center">Scoop</h1>
+</p>
+<p align="center">
+<b><a href="https://github.com/lukesampson/scoop#what-does-scoop-do">Features</a></b>
+|
+<b><a href="https://github.com/lukesampson/scoop#installation">Installation</a></b>
+|
+<b><a href="https://github.com/lukesampson/scoop/wiki">Documentation</a></b>
+</p>
+
+- - -
